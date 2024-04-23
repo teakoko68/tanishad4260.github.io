@@ -16,16 +16,15 @@ Work experience
   * June 2022 - Present 
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
-
- <!--- * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
+ 
+Skills
+======
+* SQL
+* Python
+  * OOP
+  * Numpy
+  * Pandas
+* Skill 3
 
 Education
 ======
@@ -33,15 +32,6 @@ Education
 * M.S. in Jekyll, GitHub University, 2014-->
 * B. Tech. in CSE, GGSIP University, 2017 - 2021
 
-  
-Skills
-======
-* SQL
-* Python
-  * OOPS
-  * Numpy
-  * Pandas
-* Skill 3
 
 <!-- Publications
 ======

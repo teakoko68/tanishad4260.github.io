@@ -21,7 +21,7 @@ repository               : "https://github.com/teakoko68/tanishad4260.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Profile picture.jpg"
   name             : "Tanisha D."
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist"
