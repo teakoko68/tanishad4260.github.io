@@ -19,12 +19,22 @@ Work experience
  
 Skills
 ======
-* SQL
+* Database
+  * MySQL
 * Python
   * OOP
   * Numpy
   * Pandas
-* Skill 3
+* Data Analytics and Data Visualization
+  * Excel
+  * Tableau
+  * PowerBI
+* Cloud
+  *
+
+Certifications
+======
+* 
 
 Education
 ======
